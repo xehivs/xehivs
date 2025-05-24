@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+Jeżeli chcesz sobie coś poczytać lub pooglądać, to wpadnij [na moją stronę](https://ksienie.com)
 
 <!--
 **xehivs/xehivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
